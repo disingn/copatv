@@ -1,0 +1,6 @@
+/test/
+/scripts/
+/build/
+/frontend/node_modules/
+/.idea
+/frontend/dist/
