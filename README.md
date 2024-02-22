@@ -1,6 +1,6 @@
 # Copatv - GitHub Copilot 远程授权工具
 
-Copatv 是一款专业的工具，专为 GitHub Copilot 提供远程授权，拥有 100% 的成功授权率。它支持包括 Jetbrains 全系列和 VS Code 在内的多种集成开发环境（IDE）。
+Copatv 是一款专业的工具，专为 GitHub Copilot 提供远程授权、激活，拥有 100% 的成功授权率。它支持包括 Jetbrains 全系列和 VS Code 在内的多种集成开发环境（IDE）。
 
 ## 特点
 
